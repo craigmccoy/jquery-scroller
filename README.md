@@ -1,0 +1,3 @@
+# jQuery Scroller Plugin #
+
+More information coming soon...
